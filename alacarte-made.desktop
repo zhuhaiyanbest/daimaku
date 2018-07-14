@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=
+Terminal=false
+Name=Pycharm
+Exec=/root/bin/pycharm2017/pycharm-2017.3/bin/pycharm.sh
+Type=Application
+Icon=/root/bin/pycharm2017/bin/pycharm.png
